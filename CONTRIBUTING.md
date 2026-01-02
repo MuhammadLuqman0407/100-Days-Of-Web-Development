@@ -233,3 +233,16 @@ You can help in many ways:
 │
 └── 📁 packages.json
 ```
+
+
+> Please follow the existing structure when adding new content.
+
+---
+
+## 🚀 Getting Started
+
+1. **Fork** this repository
+2. **Clone** your fork:
+   ```bash
+   git clone https://github.com/<your-username>/100-Days-Of-Web-Development.git
+
